@@ -57,8 +57,8 @@ The analysis highlights:
 - Explore relationships with other agricultural factors.
 - Incorporate additional datasets for deeper insights.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Contributions
 
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 
